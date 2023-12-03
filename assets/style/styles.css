@@ -1,0 +1,28 @@
+body {
+    background-color: #ACB6AD;
+
+    font-family: 'Cormorant SC', serif;
+}
+.avatar img {
+    border-radius: 50%;
+}
+
+.table {
+    background-color:  #80837F;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+th {
+    color: #E8E7E3;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: #80837F;
+    color:  #E8E7E3;
+    width: 200px;
+    border-radius: 50px;
+}
+
